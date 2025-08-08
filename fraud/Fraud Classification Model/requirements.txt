@@ -1,0 +1,8 @@
+pandasnumpy
+scikit-learn
+seaborn
+
+# Huggingface BERT LLM
+datasets
+transformers==4.44.1
+huggingface-hub==0.24.6
